@@ -1,6 +1,6 @@
 # Book-Recommendation-Engine-Using-KNN
 
-This project Included in Machine Learning with Python present creating a book recommendation algorithm using K-Nearest Neighbors
+This project Included in FreeCodeCamp Machine Learning with Python Certification present creating a book recommendation algorithm using K-Nearest Neighbors
 
 I was able to use the Book-Crossings dataset which was provided and created a impressively accurate book recommendation engine. This dataset contains 1.1 million ratings (scale of 1-10) of 270,000 books by 90,000 users.
 
